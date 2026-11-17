@@ -1,2 +1,0 @@
-# MarIA
-Personal AI assistant
